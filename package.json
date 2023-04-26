@@ -1,0 +1,15 @@
+{
+  "name": "ejs-iframe",
+  "version": "1.0.0",
+  "description": "trabalho com iframe",
+  "main": "main.js",
+  
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "ueredeveloper",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^24.1.2"
+  }
+}
